@@ -1,4 +1,4 @@
-# Selenium Automation
+![Selenium_Automation (1)](https://user-images.githubusercontent.com/22221943/218167881-429cfb70-f3a3-4913-895f-7a09b110453d.png)
 
 ## Table of Contents
 
