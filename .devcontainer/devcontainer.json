@@ -1,0 +1,16 @@
+
+{
+    "name": "SeleniumProject Dev Container",
+    "build": {
+        "dockerfile": "Dockerfile"
+    },
+    "forwardPorts": [],
+    "extensions": [
+        "vscjava.vscode-java-pack"
+    ],
+    "postCreateCommand": "mvn install",
+    "settings": {
+        "java.home": "/usr/lib/jvm/java-1.8.0-openjdk-amd64",
+        "java.configuration.maven.userSettings": "/root/.m2/settings.xml"
+    }
+}
