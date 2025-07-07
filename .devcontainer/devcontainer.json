@@ -1,7 +1,6 @@
-
 {
-    "name": "Java (Maven)",
-    "image": "mcr.microsoft.com/devcontainers/java:1.11-bullseye",
+    "name": "Java & Chrome",
+    "image": "mcr.microsoft.com/devcontainers/java:11",
 
     "features": {
         "ghcr.io/devcontainers/features/java:1": {
